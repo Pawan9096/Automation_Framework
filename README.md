@@ -22,5 +22,5 @@ The framework consists of:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone 
+   git clone https://github.com/Pawan9096/Automation_Framework
 
